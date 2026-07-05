@@ -1,0 +1,6 @@
+Topics: Arrays Discussed, 1D and 2D array, vectors discussed, 1D vectors and 2D vectors, Two Pointer approach discussed
+
+Questions: 
+1)-  Simple Questions on Array
+2)-  Tried mind benders that can be asked
+3)-  Move Zeroes to End- better and optimal approach discussed
